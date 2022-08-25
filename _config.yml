@@ -20,7 +20,7 @@ title                    : "Bcoding"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "B"
-description              : "필요한 곳에 사용될 수 있도록"
+description              : "B가 하는 성장 "
 url                      : "https://keb656.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,15 +104,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "B"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "필요한 곳에 사용될 수 있도록"
+  location         : #"Somewhere"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:keb656@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
