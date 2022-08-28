@@ -22,6 +22,7 @@ title: "[swift] 스위프트 주석 사용 방법"
   하네요
 */
 ```
+출처: [charmintern.tistory.com](https://charmintern.tistory.com/40)
 
 ### annotation과 comment
 annotation이 사전적 의미로는 '주석'에 해당하는데, 개발을 할 때는 comment로 불리는 것이 궁금해서 차이점을 찾아봤다.
