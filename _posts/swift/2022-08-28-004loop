@@ -1,0 +1,30 @@
+---
+layout: single
+title: "[swift] 반복문 for, while"
+---
+
+# for
+일정 횟수 동안 반복해야 할 떄 사용
+```swift
+
+for i in 1...10{
+  print(i)
+}
+
+```
+루프상수(위 코드에서는 i)가 필요하지 않은 경우, 루프상수를 코드에서 활용하는 목적 보다 단순하게 반복이 필요한 경우는 언더바(_)를 루프상수 자리에 넣는다.
+
+# while
+일정 조건이 유지되는 동안 반복해야 할 때 사용
+```
+var i = 1
+
+while i <= 10{
+  print(i)
+  i += 1
+}
+```
+
+출처
+[ppomelo.tistory.com](https://ppomelo.tistory.com/3)
+[exception-log.tistory.com](https://exception-log.tistory.com/119)
