@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "[]"
+title: "[Jekyll] 깃허브 블로그 게시글 공개/비공개 설정"
 ---
 
 ```
