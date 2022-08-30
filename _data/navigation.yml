@@ -6,7 +6,7 @@ main:
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "Swift"
      url: https://keb656.github.io/_posts/swift/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Jekyll"
+    url: https://keb656.github.io/_posts/Jelyll/
+  - title: "Markdown"
+    url: https://keb656.github.io/_posts/markdown/
